@@ -1,0 +1,26 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    width: 100%;
+    background-color:
+    #a7225a;
+}
+.footer{
+    width: 100%;
+    height: 8%;
+    background-color: 
+    #a7225a;
+    position: absolute;
+    bottom: 0;
+    left: 0;   
+}
+.center {
+    text-align: center;
+    top: 60%;
+}
+.imge {
+    text-align: center; 
+    margin-top: 10%;
+}
